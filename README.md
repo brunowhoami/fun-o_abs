@@ -16,18 +16,18 @@
 
 <h2>Analise Mensal</h2>
 <p><strong>Janeiro:</strong>Vendas abaixo da meta em 500 reais, 112,5% abaixo do esperado para o mês, iniciando o ano de uma forma não esperada.</p>
-<p><strong>Fevereiro:</strong>Diferente do mês passado, as vendas quase alacançaram a meta, faltando 1000 reais, com o percentual em -25%, não foi possivel alcançar o esperado, mas a uma grande diferença em comparação a janeiro.</p>
+<p><strong>Fevereiro:</strong>Diferente do mês passado, as vendas quase alcançaram a meta, faltando 1000 reais, com o percentual em -25%, não foi possivel alcançar o esperado, mas a uma grande diferença em comparação a janeiro.</p>
 <p><strong>Março:</strong>Mais um mês de acrescimo, com a meta batida em 4500 reais e um percentual de 12,5% Positivo.</p>
 <p><strong>Abril:</strong>Uma queda em 2000 reais abaixo da média, com o percentual -50%, mais um mês onde o valor recebido, não é o esperado.</p>
 <p><strong>Maio:</strong>O mês de maior venda e lucro, totalizando 6000 reais em vendas, e um percentual de 50%, alcançando novamente os valores desejados.</p>
-<p><strong>JUnho:</strong>Pode se dizer o pior resultado em seis meses, ficando muito abaixo do esperado, alcançando uma margem de prejuizo de -2500 reais, e seu percentual de -162,5%.</p>
+<p><strong>Junho:</strong>Pode se dizer o pior resultado em seis meses, ficando muito abaixo do esperado, alcançando uma margem de prejuizo de -2500 reais, e seu percentual de -162,5%.</p>
 
 <h2>Analise Acumulada</h2>
 <p><strong>Diferença Acumulada:</strong>Mostra o progresso em relação ao objetivo final, a meta.</p>
 
 <h2>Tendencias</h2>
 <p><strong>Positivo:</strong>Fevereiro conseguiu mudar o cenario encontrado em janeiro, por mais que não tenha alcançado a meta, chegou muito proximo, Março e Maio Ultrapassaram a meta.</p>
-<p><strong>Negativo:</strong>Janeiro Abril e principalmente Junho, ficaram abaixo do esperado, salvo Abril pelo seu resultado positivo.</p>
+<p><strong>Negativo:</strong>Janeiro Abril e principalmente Junho, ficaram abaixo do esperado, salvo Abril pelo seu resultado positivo, mas que infelizmente não alcançou a meta.</p>
 
 <h2>Recomendações</h2>
 <p><strong>Ações Corretivas:</strong>Nos mese em que a meta não foi alcançada, é sugerido fortemente uma analise mais ampla, abordando o setor de marketing com novas estrategias e personas.</p>
