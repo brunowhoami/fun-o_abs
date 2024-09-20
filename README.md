@@ -26,6 +26,9 @@
 <p><strong>Diferença Acumulada:</strong>Mostra o progresso em relação ao objetivo final, a meta, nos deixando bem claro a diferença de valores
 comparado as vendas mensais e metas de vendas, com algumas diferenças minimas e outras um tanto exorbitantes. Com essa diferença acumulada podemos analisar os fatos ocorridos, e entender quais meses encontramos mais desafios e prejuizos, podemos também analisar que não existe um padrão entre os valores, fato esse que nos mostra a inconsistencia nas vendas. </p>
 
+<img src="Grafico metas.png">
+<img src="grafico diferenca.png"
+
 <h2>Tendencias</h2>
 <p><strong>Positivo:</strong>Fevereiro conseguiu mudar o cenario encontrado em janeiro, por mais que não tenha alcançado a meta, chegou muito proximo, Março e Maio Ultrapassaram a meta.</p>
 <p><strong>Negativo:</strong>Janeiro Abril e principalmente Junho, ficaram abaixo do esperado, salvo Abril pelo seu resultado positivo, mas que infelizmente não alcançou a meta.</p>
